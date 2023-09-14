@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js and Tailwind.css**
 
-- 👨‍💻 All of my projects are available at [https://jorsch-portfolio.netlify.app/](https://jorsch-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at 
 
 - 📫 How to reach me **jorsch.pl@gmail.com**
 
