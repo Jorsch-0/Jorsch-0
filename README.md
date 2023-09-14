@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at 
 
-- 📫 How to reach me **jorsch.pl@gmail.com**
+- 📫 How to reach me 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
